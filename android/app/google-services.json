@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682209281989",
+    "project_id": "hotelauth-ea8bc",
+    "storage_bucket": "hotelauth-ea8bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682209281989:android:9a854bfc244116ea3c2dac",
+        "android_client_info": {
+          "package_name": "com.example.hotel_mng"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-aSl9wOo71qTCF7QVd5rbg0Fb1vB6Wis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
